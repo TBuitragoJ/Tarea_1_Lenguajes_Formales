@@ -50,6 +50,3 @@ This means:
 - `f[3] = 1` (`"aba"` — `"a"` is both a prefix and suffix)
 - `f[4] = 0` (`"abac"` — no match)
 
-### Time Complexity
-
-The algorithm runs in **O(n)** time, where `n` is the length of the input string, making it efficient for preprocessing patterns in the KMP search algorithm.
